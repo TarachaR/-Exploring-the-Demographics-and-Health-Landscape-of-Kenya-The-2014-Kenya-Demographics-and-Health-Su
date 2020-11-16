@@ -121,6 +121,7 @@ Given the dataset, I performed data exploration, data wrangling (cleaning and an
 ![Box plot of Total children ever born by Region](https://user-images.githubusercontent.com/67068918/99262038-8a5eb000-282e-11eb-8232-2d0b8a89422f.png)
 
 * More children are born to older women than to younger women.
+![Total children ever born vs Respondents current age](https://user-images.githubusercontent.com/67068918/99262195-b712c780-282e-11eb-96c7-01f68dd288c4.png)
 
 
 [Back To The Top](#New-York-City-Bus-Breakdowns---Data-Wrangling-with-Python)
