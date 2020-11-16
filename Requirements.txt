@@ -1,0 +1,7 @@
+Python
+Pandas
+Numpy
+Matplotlib
+Seaborn
+
+The dataset link to the dataset has been provided in the READ.md file as it is more than 25MB and can't be directly uploaded to Github.
