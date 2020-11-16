@@ -5,7 +5,7 @@
 
 > Date: 16/11/2020
 
-![kenya2_6_700x400](https://user-images.githubusercontent.com/67068918/99253290-8f693280-2821-11eb-8973-fe37870bddb8.png)
+![kenya2](https://user-images.githubusercontent.com/67068918/99252543-2cc36700-2820-11eb-92cd-f7356a03c5c3.png)
 
 ---
 
