@@ -53,7 +53,7 @@ Dataset:
 The Demographic and Health Surveys (DHS) Program URL: https://bit.ly/khds_dataset
 
 The variables of interest in the data are:
-CASEID: Unique Case identifier
+- CASEID: Unique Case identifier
 - V010: Respondents Year of Birth
 - V012: Respondents current age
 - V025: Type of residence
@@ -71,6 +71,7 @@ NB: The respondent for the provided data is a woman of a reproductive age
 ## Recording the Experimental Design
 1. Load libraries
 2. Load dataset with the following variables:
+    
     * CASEID : Unique Case identifier
     * V010 : Respondents Year of Birth
     * V012 : Respondents current age
@@ -79,6 +80,7 @@ NB: The respondent for the provided data is a woman of a reproductive age
     * V106 : Highest level of education
     * V152 : Age of household head
     * V201 : Total children ever born
+    
 3. Answer the deliverables outlined below
 4. Summarize findings.
 
