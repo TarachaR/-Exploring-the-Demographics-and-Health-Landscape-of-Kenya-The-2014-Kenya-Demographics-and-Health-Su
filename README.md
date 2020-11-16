@@ -83,8 +83,6 @@ NB: The respondent for the provided data is a woman of a reproductive age
 3. Answer the deliverables outlined below
 4. Summarize findings.
 
-Given the dataset, I performed data exploration, data wrangling (cleaning and analysis) and statistical data analysis in an effort to come with a summary of findings: 
-
 **Deliverables:**
 * Input the dataset provided and displayed the head(5) of the dataset with the above variables of interest only.
 * Calculated the mean, median and mode for V012 , V152 and V201. Would I prefer mean or median for V201?
@@ -94,6 +92,7 @@ Given the dataset, I performed data exploration, data wrangling (cleaning and an
 * Created a boxplot of V201 by (V025, V106, V024) separately.
 * Created a scatter plot and computed the Pearson Correlation Coefficient between V201 and V012 explaining my findings.
 
+Given the dataset, I performed data exploration, data wrangling (cleaning and analysis) and statistical data analysis in an effort to come with a summary of findings:
 
 [Back To The Top](#New-York-City-Bus-Breakdowns---Data-Wrangling-with-Python)
 
@@ -114,7 +113,7 @@ Given the dataset, I performed data exploration, data wrangling (cleaning and an
 
 From the above analysis, below are our recommendations:
 
-* Since most of the delays were caused by Late return from Field Trips, it is recommended that the buses be rotated out to prevent breakdown i.e the buses going out for field trips should be on rotational basis.
+* Majority of the respondents are below 35 years of age:
 
 * Heavy traffic is the most frequent reason for running late and hence either the roads be expanded to ease traffic or the number of vehicles plying that route should be regulated. Alternative routes may also be considered.
 
