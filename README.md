@@ -109,7 +109,9 @@ Given the dataset, I performed data exploration, data wrangling (cleaning and an
 ![Bar Chart Showing The number of respondents by Region](https://user-images.githubusercontent.com/67068918/99261392-b9285680-282d-11eb-8af0-a61df746b593.png)
 
 * Most of the respondents have attained Primary level of education as their highest level of education. Those with education levels beyond secondary school make up the minority.
+![Bar Chart Showing The number of respondents by Region](https://user-images.githubusercontent.com/67068918/99261562-f0970300-282d-11eb-84f6-0b28c9a5bf54.png)
 
+* More children are born in rural areas than in urban areas.
 
 - G.V.C., LTD, LEESEL TRANSPORTATION CORP (B2192) and PIONEER TRANSPORTATION CO	are the bus companies with the highest number of breakdowns.
 - There were a total number of 58329 students on the bus when it broke down and a total number of 890829 on the bus when it was running late.
