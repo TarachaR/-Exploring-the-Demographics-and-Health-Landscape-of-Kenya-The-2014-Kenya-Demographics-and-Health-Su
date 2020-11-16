@@ -34,8 +34,6 @@ The Demographic and Health Surveys (DHS) Program has collected, analyzed, and di
 
 As a Data professional you are tasked to determine the main factors that can help determine the number of total children ever born by a woman of reproductive age in Kenya. You are provided with the Kenya Demographics Health Survey (KDHS 2014) data set.
 
-Given a dataset, I performed data exploration and data wrangling (data cleaning and analysis) then came up with some appropriate recommendations. 
-
 #### Technologies and Tools
 
 - Pandas
