@@ -99,6 +99,8 @@ Given the dataset, I performed data exploration, data wrangling (cleaning and an
 ---
 
 ## Summary Of Findings
+* Majority of the respondents are below 35 years of age.
+![A Histogram showing the Respondents Current Age](https://user-images.githubusercontent.com/67068918/99255760-719dcc80-2825-11eb-8255-f9d06a8881be.png)
 
 - From my analysis, most of the delays were caused by late returns from field trips
 - Heavy traffic and mechanical problems are the most frequent reasons for bus delays.
