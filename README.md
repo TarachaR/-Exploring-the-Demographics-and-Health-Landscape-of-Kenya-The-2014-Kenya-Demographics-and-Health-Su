@@ -40,65 +40,61 @@ Given a dataset, I performed data exploration and data wrangling (data cleaning 
 
 - Pandas
 - Numpy
+- Matplotlib
+- Seaborn
 
 [Back To The Top](#New-York-City-Bus-Breakdowns---Data-Wrangling-with-Python)
 
 ---
 
 ## Project Deliverable
-Deliverable is an SQL notebook with my data analysis in SQL:
+Deliverable is a Python notebook with my statistical data analysis:
 
-* Notebook name: Descriptive Analysis of Ride Sharing App Prices.ipynb
+* Notebook name: Statistical Analysis of the Kenya Demographics Health Survey.ipynb
 
-Datasets:
-Weather Dataset URL = https://bit.ly/cabsweatherdata
+Dataset:
+The Demographic and Health Surveys (DHS) Program URL: https://bit.ly/khds_dataset
 
-Cabs Dataset URL = https://bit.ly/cabsdataset
+The variables of interest in the data are:
+CASEID: Unique Case identifier
+- V010: Respondents Year of Birth
+- V012: Respondents current age
+- V025: Type of residence
+- V024: Region
+- V106: The highest level of education
+- V152: Age of household head
+- V201: Total children ever born
 
-Dataset Glossary:
-* Cab Rides Dataset
-1. distance: distance between source and destination. 
-2. cab_type: Uber or Lyft
-3. time_stamp: time when data was queried
-4. destination: destination of the ride
-5. source: the starting point of the ride
-6. price: price estimate for the ride in USD
-7. surge_multiplier: the multiplier by which price was increased, default 1
-8. unique identifier
-9. product_id: uber/lyft identifier for cab-type
-10. name: Visible type of the cab eg: Uber Pool, UberXL
-
-* Weather Dataset
-1. temp: Temperature 
-2. location: Location name
-3. clouds: Clouds
-4. pressure: pressure in mb
-5. rain: rain in inches for the last hr
-6. time_stamp: time when row data was collected
-7. humidity: humidity in %
-8. wind: wind speed in mph
+NB: The respondent for the provided data is a woman of a reproductive age
 
 [Back To The Top](#New-York-City-Bus-Breakdowns---Data-Wrangling-with-Python)
 
 ---
 
 ## Recording the Experimental Design
-1. Define the Research Question
-2. Data Importation
-3. Data Exploration
-4. Data Cleaning
-5. Data Preparation
-6. Data Analysis
+1. Load libraries
+2. Load dataset with the following variables:
+    * CASEID : Unique Case identifier
+    * V010 : Respondents Year of Birth
+    * V012 : Respondents current age
+    * V025 : Type of residence
+    * V024 : Region
+    * V106 : Highest level of education
+    * V152 : Age of household head
+    * V201 : Total children ever born
+3. Answer the deliverables outlined below
+4. Summarize findings.
 
-Given the dataset, I performed data exploration, data wrangling (cleaning and analysis) in an effort to come with appropriate recommendations. 
+Given the dataset, I performed data exploration, data wrangling (cleaning and analysis) and statistical data analysis in an effort to come with a summary of findings: 
 
-As a start while performing data analysis, I derived the following questions from the given dataset: 
-1. Which bus companies that had the highest breakdowns?
-2. What were the top 3 reasons for bus delays?
-3. How many students were in the buses when they broke down?
-4. Which were most frequent reasons for bus breakdowns?
-5. What were the most frequent reasons for the bus running late?
-6. What was the average delay time of each reason type?
+**Deliverables:**
+* Input the dataset provided and displayed the head(5) of the dataset with the above variables of interest only.
+* Calculated the mean, median and mode for V012 , V152 and V201. Would I prefer mean or median for V201?
+* Calculated the Range, IQR and standard deviation for V012 and V152. Commented on the variability of the variables.
+* Ploted a histogram of V012 and V152 and explained the skewness.
+* Created a frequency table for V024 and V106 then plotted a barchart for the two variables.
+* Created a boxplot of V201 by (V025, V106, V024) separately.
+* Created a scatter plot and computed the Pearson Correlation Coefficient between V201 and V012 explaining my findings.
 
 
 [Back To The Top](#New-York-City-Bus-Breakdowns---Data-Wrangling-with-Python)
