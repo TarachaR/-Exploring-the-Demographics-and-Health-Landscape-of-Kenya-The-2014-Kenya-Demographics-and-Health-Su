@@ -112,6 +112,7 @@ Given the dataset, I performed data exploration, data wrangling (cleaning and an
 ![Bar Chart Showing The number of respondents by Region](https://user-images.githubusercontent.com/67068918/99261562-f0970300-282d-11eb-84f6-0b28c9a5bf54.png)
 
 * More children are born in rural areas than in urban areas.
+![Box plot of Total children ever born vs Type of residence](https://user-images.githubusercontent.com/67068918/99261684-19b79380-282e-11eb-931a-fed3347089af.png)
 
 - G.V.C., LTD, LEESEL TRANSPORTATION CORP (B2192) and PIONEER TRANSPORTATION CO	are the bus companies with the highest number of breakdowns.
 - There were a total number of 58329 students on the bus when it broke down and a total number of 890829 on the bus when it was running late.
