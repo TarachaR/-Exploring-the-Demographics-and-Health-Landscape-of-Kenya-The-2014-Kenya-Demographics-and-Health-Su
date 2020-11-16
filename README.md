@@ -102,7 +102,9 @@ Given the dataset, I performed data exploration, data wrangling (cleaning and an
 * Majority of the respondents are below 35 years of age.
 ![A Histogram showing the Respondents Current Age](https://user-images.githubusercontent.com/67068918/99255760-719dcc80-2825-11eb-8255-f9d06a8881be.png)
 
-- From my analysis, most of the delays were caused by late returns from field trips
+* Majority of Household Heads are below 50 years of age.
+
+
 - Heavy traffic and mechanical problems are the most frequent reasons for bus delays.
 - G.V.C., LTD, LEESEL TRANSPORTATION CORP (B2192) and PIONEER TRANSPORTATION CO	are the bus companies with the highest number of breakdowns.
 - There were a total number of 58329 students on the bus when it broke down and a total number of 890829 on the bus when it was running late.
