@@ -24,7 +24,7 @@ Sections headers used to reference locations of each destination:
 
 ## External Data Source Validation
 
-The data is originally from the Demographic and Health Surveys Program for the Kenya Demographics Health Survey (KDHS 2014). 
+The data is originally from the Demographic and Health Surveys Program for the Kenya Demographics Health Survey (KDHS 2014). The data is provided and can be accessed via https://dhsprogram.com/data/dataset/Kenya_Standard-DHS_2014.cfm?flag=0/
 
 > All personally identifying information has been removed from the data.
 
