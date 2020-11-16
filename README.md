@@ -103,7 +103,7 @@ Given the dataset, I performed data exploration, data wrangling (cleaning and an
 ![A Histogram showing the Respondents Current Age](https://user-images.githubusercontent.com/67068918/99255760-719dcc80-2825-11eb-8255-f9d06a8881be.png)
 
 * Majority of Household Heads are below 50 years of age.
-
+![A Histogram showing the Age of the Household Head](https://user-images.githubusercontent.com/67068918/99256118-f4268c00-2825-11eb-8308-e75994a6df3c.png)
 
 - Heavy traffic and mechanical problems are the most frequent reasons for bus delays.
 - G.V.C., LTD, LEESEL TRANSPORTATION CORP (B2192) and PIONEER TRANSPORTATION CO	are the bus companies with the highest number of breakdowns.
