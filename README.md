@@ -24,11 +24,7 @@ Sections headers used to reference locations of each destination:
 
 ## External Data Source Validation
 
-According to https://www.nycgo.com/neighborhoods-boroughs/about-nyc-five-boroughs/, New York City has 5 main Boroughs namely: the Bronx, Brooklyn, Manhattan, Queens and Staten Island—each with dozens of neighborhoods lending their own local flavor
-
-Our data set contains these boroughs confirmed using the formular df.Boro.Unique(): New Jersey', 'Manhattan', 'Bronx', 'Westchester', 'Brooklyn', 'Rockland County', 'Nassau County', 'Queens', 'Staten Island', 'Connecticut', 'All Boroughs' which is more than what the information above has indicated although the data contains the 5 main boroughs. The assumption is that the extra boroughs are within the 5 main boroughs.
-
-The data is provided to the NYC open data by Department of Education (DOE) and can be accessed via https://data.cityofnewyork.us/Transportation/Bus-Breakdown-and-Delays/ez4e-fazm
+The data is originally from the Demographic and Health Surveys Program for the Kenya Demographics Health Survey (KDHS 2014). 
 
 > All personally identifying information has been removed from the data.
 
