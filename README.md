@@ -5,7 +5,7 @@
 
 > Date: 16/11/2020
 
-![NYC Home Page Image](https://user-images.githubusercontent.com/67068918/98472046-59182b80-2201-11eb-940d-b18f930166e8.png)
+![kenya](https://user-images.githubusercontent.com/67068918/99252323-d3f3ce80-281f-11eb-8a34-76df557b8aa3.png)
 
 ---
 
