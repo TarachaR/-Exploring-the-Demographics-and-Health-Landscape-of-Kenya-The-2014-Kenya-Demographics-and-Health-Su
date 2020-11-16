@@ -110,7 +110,7 @@ Given the dataset, I performed data exploration, data wrangling (cleaning and an
 ![Bar Chart Showing The number of respondents by Region](https://user-images.githubusercontent.com/67068918/99261392-b9285680-282d-11eb-8af0-a61df746b593.png)
 
 * Most of the respondents have attained Primary level of education as their highest level of education. Those with education levels beyond secondary school make up the minority.
-![Bar Chart Showing The number of respondents by Region](https://user-images.githubusercontent.com/67068918/99261562-f0970300-282d-11eb-84f6-0b28c9a5bf54.png)
+![Bar Chart Showing Highest level of Education](https://user-images.githubusercontent.com/67068918/99267351-e62c3780-2834-11eb-8f7c-d37407c9dfd1.png)
 
 * More children are born in rural areas than in urban areas.
 ![Box plot of Total children ever born vs Type of residence](https://user-images.githubusercontent.com/67068918/99261684-19b79380-282e-11eb-931a-fed3347089af.png)
