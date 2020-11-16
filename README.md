@@ -30,7 +30,9 @@ The data is originally from the Demographic and Health Surveys Program for the K
 
 ## Understanding The Context
 
-With this project, I'm working as a Data Science Consultant and has been tasked to provide recommendations on how to reduce the cases of breakdown of buses in the city of New York. 
+The Demographic and Health Surveys (DHS) Program has collected, analyzed, and disseminated accurate and representative data on population, health, HIV, and nutrition through more than 400 surveys in over 90 countries.
+
+As a Data professional you are tasked to determine the main factors that can help determine the number of total children ever born by a woman of reproductive age in Kenya. You are provided with the Kenya Demographics Health Survey (KDHS 2014) data set.
 
 Given a dataset, I performed data exploration and data wrangling (data cleaning and analysis) then came up with some appropriate recommendations. 
 
