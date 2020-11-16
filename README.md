@@ -116,7 +116,7 @@ Given the dataset, I performed data exploration, data wrangling (cleaning and an
 ![Box plot of Total children ever born vs Type of residence](https://user-images.githubusercontent.com/67068918/99261684-19b79380-282e-11eb-931a-fed3347089af.png)
 
 * More children are born to mothers with no education.
-![Box plot of Total children ever born vs The highest level of education](https://user images.githubusercontent.com/67068918/99267723-5d61cb80-2835-11eb-99e9-7ba9710f9ff2.png)
+![Box plot of Total children ever born vs The highest level of education](https://user-images.githubusercontent.com/67068918/99267912-969a3b80-2835-11eb-96ed-716ab704f24a.png)
 
 * Nyanza Region leads in terms of total children born. Nairobi Region is the last.
 ![Box plot of Total children ever born by Region](https://user-images.githubusercontent.com/67068918/99262038-8a5eb000-282e-11eb-8232-2d0b8a89422f.png)
