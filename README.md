@@ -118,6 +118,9 @@ Given the dataset, I performed data exploration, data wrangling (cleaning and an
 ![Bar Chart Showing Highest level of Education](https://user-images.githubusercontent.com/67068918/99261902-5c796b80-282e-11eb-88c3-d1abf751ab05.png)
 
 * Nyanza Region leads in terms of total children born. Nairobi Region is the last.
+![Box plot of Total children ever born by Region](https://user-images.githubusercontent.com/67068918/99262038-8a5eb000-282e-11eb-8232-2d0b8a89422f.png)
+
+* More children are born to older women than to younger women.
 
 
 [Back To The Top](#New-York-City-Bus-Breakdowns---Data-Wrangling-with-Python)
