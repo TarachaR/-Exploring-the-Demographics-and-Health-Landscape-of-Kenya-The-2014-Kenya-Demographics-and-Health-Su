@@ -105,7 +105,9 @@ Given the dataset, I performed data exploration, data wrangling (cleaning and an
 * Majority of Household Heads are below 50 years of age.
 ![A Histogram showing the Age of the Household Head](https://user-images.githubusercontent.com/67068918/99256118-f4268c00-2825-11eb-8308-e75994a6df3c.png)
 
-- Heavy traffic and mechanical problems are the most frequent reasons for bus delays.
+* Majority of the respondents are from the Rift Valley region while the least are from Nairobi.
+
+
 - G.V.C., LTD, LEESEL TRANSPORTATION CORP (B2192) and PIONEER TRANSPORTATION CO	are the bus companies with the highest number of breakdowns.
 - There were a total number of 58329 students on the bus when it broke down and a total number of 890829 on the bus when it was running late.
 
