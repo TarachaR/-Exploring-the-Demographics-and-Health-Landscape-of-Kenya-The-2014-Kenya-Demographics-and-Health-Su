@@ -106,6 +106,9 @@ Given the dataset, I performed data exploration, data wrangling (cleaning and an
 ![A Histogram showing the Age of the Household Head](https://user-images.githubusercontent.com/67068918/99256118-f4268c00-2825-11eb-8308-e75994a6df3c.png)
 
 * Majority of the respondents are from the Rift Valley region while the least are from Nairobi.
+![Bar Chart Showing The number of respondents by Region](https://user-images.githubusercontent.com/67068918/99261392-b9285680-282d-11eb-8af0-a61df746b593.png)
+
+* Most of the respondents have attained Primary level of education as their highest level of education. Those with education levels beyond secondary school make up the minority.
 
 
 - G.V.C., LTD, LEESEL TRANSPORTATION CORP (B2192) and PIONEER TRANSPORTATION CO	are the bus companies with the highest number of breakdowns.
