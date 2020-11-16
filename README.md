@@ -17,7 +17,6 @@ Sections headers used to reference locations of each destination:
 - [Project Deliverable](#project-deliverable)
 - [Recording the Experimental Design](#recording-the-experimental-design)
 - [Summary Of Findings](#summary-of-findings)
-- [Recommendations](#recommendations)
 - [Author Information](#author-information)
 
 ---
@@ -41,7 +40,7 @@ As a Data professional you are tasked to determine the main factors that can hel
 - Matplotlib
 - Seaborn
 
-[Back To The Top](#New-York-City-Bus-Breakdowns---Data-Wrangling-with-Python)
+[Back To The Top](#Kenya-Demographics-Health-Survey-KDHS--2014)
 
 ---
 
@@ -123,20 +122,6 @@ Given the dataset, I performed data exploration, data wrangling (cleaning and an
 * More children are born to older women than to younger women.
 ![Total children ever born vs Respondents current age](https://user-images.githubusercontent.com/67068918/99262195-b712c780-282e-11eb-96c7-01f68dd288c4.png)
 
-
-[Back To The Top](#New-York-City-Bus-Breakdowns---Data-Wrangling-with-Python)
-
----
-
-## Recommendations
-
-From the above analysis, below are our recommendations:
-
-* Majority of the respondents are below 35 years of age:
-
-* Heavy traffic is the most frequent reason for running late and hence either the roads be expanded to ease traffic or the number of vehicles plying that route should be regulated. Alternative routes may also be considered.
-
-* An investigation into LITTLE RICHIE BUS SERVICE which is the bus company with the most breakdowns should be launched to understand the reason.
 
 [Back To The Top](#New-York-City-Bus-Breakdowns---Data-Wrangling-with-Python)
 
