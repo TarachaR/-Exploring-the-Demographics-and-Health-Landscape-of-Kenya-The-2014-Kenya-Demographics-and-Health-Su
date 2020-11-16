@@ -121,7 +121,7 @@ Given the dataset, I performed data exploration, data wrangling (cleaning and an
 * Nyanza Region leads in terms of total children born. Nairobi Region is the last.
 ![Box plot of Total children ever born by Region](https://user-images.githubusercontent.com/67068918/99262038-8a5eb000-282e-11eb-8232-2d0b8a89422f.png)
 
-
+</br>
 * More children are born to older women than to younger women.
 ![Total children ever born vs Respondents current age](https://user-images.githubusercontent.com/67068918/99268483-45d71280-2836-11eb-9cf9-2d832653813b.png)
 
