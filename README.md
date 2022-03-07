@@ -5,7 +5,10 @@
 
 > Date: 16/11/2020
 
-![kenya2](https://user-images.githubusercontent.com/67068918/99252543-2cc36700-2820-11eb-92cd-f7356a03c5c3.png)
+<!-- Alignment options!!!!! -->
+<img align="right" width="350" height="350" src="https://user-images.githubusercontent.com/67068918/157054966-747112ef-f7b1-40e6-8c5e-a593a82fb02a.gif">
+
+<!-- ![10498-map-africa](https://user-images.githubusercontent.com/67068918/157054966-747112ef-f7b1-40e6-8c5e-a593a82fb02a.gif) -->
 
 ---
 
