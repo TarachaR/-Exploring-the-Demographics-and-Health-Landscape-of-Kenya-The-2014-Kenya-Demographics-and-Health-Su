@@ -1,7 +1,7 @@
 # Kenya-Demographics-Health-Survey-KDHS--2014
 ---
 
-> Author: Richard Taracha
+> Author: Richard Taracha Muchemo
 
 > Date: 16/11/2020
 
