@@ -36,13 +36,6 @@ The Demographic and Health Surveys (DHS) Program has collected, analyzed, and di
 
 As a Data professional you are tasked to determine the main factors that can help determine the number of total children ever born by a woman of reproductive age in Kenya. You are provided with the Kenya Demographics Health Survey (KDHS 2014) data set.
 
-#### Technologies and Tools
-
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
-
 [Back To The Top](#Kenya-Demographics-Health-Survey-KDHS--2014)
 
 ---
@@ -56,14 +49,16 @@ Dataset:
 The Demographic and Health Surveys (DHS) Program URL: https://bit.ly/khds_dataset
 
 The variables of interest in the data are:
-- CASEID: Unique Case identifier
-- V010: Respondents Year of Birth
-- V012: Respondents current age
-- V025: Type of residence
-- V024: Region
-- V106: The highest level of education
-- V152: Age of household head
-- V201: Total children ever born
+| Column Name | Description |
+| --- | --- |
+| CASEID | Unique Case identifier |
+| V010 | Respondents Year of Birth |
+| V012 | Respondents current age |
+| V025 | Type of residence |
+| V024 | Region |
+| V106 | Highest level of education |
+| V152 | Age of household head |
+| V201 | Total children ever born |
 
 NB: The respondent for the provided data is a woman of a reproductive age
 
@@ -73,17 +68,7 @@ NB: The respondent for the provided data is a woman of a reproductive age
 
 ## Recording the Experimental Design
 1. Load libraries
-2. Load dataset with the following variables:
-    
-    * CASEID : Unique Case identifier
-    * V010 : Respondents Year of Birth
-    * V012 : Respondents current age
-    * V025 : Type of residence
-    * V024 : Region
-    * V106 : Highest level of education
-    * V152 : Age of household head
-    * V201 : Total children ever born
-    
+2. Load dataset with the variables of interest.
 3. Answer the deliverables outlined below
 4. Summarize findings.
 
@@ -127,3 +112,6 @@ Given the dataset, I performed data exploration, data wrangling (cleaning and an
 - Website - https://richardtaracha.glitch.me/
 
 [Back To The Top](#Kenya-Demographics-Health-Survey-KDHS--2014)
+
+
+<h3 align="center">Made with ❤️ by Richard Taracha</h3>
