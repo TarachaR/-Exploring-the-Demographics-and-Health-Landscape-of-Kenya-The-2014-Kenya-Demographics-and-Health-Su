@@ -6,7 +6,7 @@
 > Date: 16/11/2020
 
 <!-- Alignment options!!!!! -->
-<img align="right" width="350" height="350" src="https://user-images.githubusercontent.com/67068918/157054966-747112ef-f7b1-40e6-8c5e-a593a82fb02a.gif">
+<img align="right" width="350" height="350" src="https://github.com/TarachaR/Kenya-Demographics-Health-Survey-KDHS--2014/assets/67068918/45a40220-dcd8-48d9-ab2b-602cd1cbf1e8.gif">
 
 <!-- ![10498-map-africa](https://user-images.githubusercontent.com/67068918/157054966-747112ef-f7b1-40e6-8c5e-a593a82fb02a.gif) -->
 
@@ -138,4 +138,5 @@ Given the dataset, I performed data exploration, data wrangling (cleaning and an
 
 [Back To The Top](#Kenya-Demographics-Health-Survey-KDHS--2014)
 
+![kenya-flag-4942854-4121920](https://github.com/TarachaR/Kenya-Demographics-Health-Survey-KDHS--2014/assets/67068918/45a40220-dcd8-48d9-ab2b-602cd1cbf1e8)
 
