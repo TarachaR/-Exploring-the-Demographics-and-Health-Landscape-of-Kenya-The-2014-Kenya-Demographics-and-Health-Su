@@ -1,7 +1,7 @@
 # Kenya-Demographics-Health-Survey-KDHS--2014
 ---
 
-> Author: Richard Taracha
+> <img align="left" width="25" height="25" src="https://github.com/TarachaR/-Exploring-the-Demographics-and-Health-Landscape-of-Kenya-The-2014-Kenya-Demographics-and-Health-Su/assets/67068918/554ab581-b25a-4112-85e5-d0d2fbe4d7e3.svg"> **Author:** Richard Taracha 
 
 > Date: 16/11/2020
 
@@ -115,3 +115,7 @@ Given the dataset, I performed data exploration, data wrangling (cleaning and an
 
 
 <h3 align="center">Made with ❤️ by Richard Taracha</h3>
+
+
+![head-side](https://github.com/TarachaR/-Exploring-the-Demographics-and-Health-Landscape-of-Kenya-The-2014-Kenya-Demographics-and-Health-Su/assets/67068918/554ab581-b25a-4112-85e5-d0d2fbe4d7e3)
+
