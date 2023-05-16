@@ -6,7 +6,7 @@
 > Date: 16/11/2020
 
 <!-- Alignment options!!!!! -->
-<img align="right" width="350" height="350" src="https://github.com/TarachaR/Kenya-Demographics-Health-Survey-KDHS--2014/assets/67068918/45a40220-dcd8-48d9-ab2b-602cd1cbf1e8.gif">
+<img align="right" width="350" height="350" src="https://github.com/TarachaR/-Exploring-the-Demographics-and-Health-Landscape-of-Kenya-The-2014-Kenya-Demographics-and-Health-Su/assets/67068918/62266fbf-4c96-48db-ba94-3e40761a90ad.gif">
 
 <!-- ![10498-map-africa](https://user-images.githubusercontent.com/67068918/157054966-747112ef-f7b1-40e6-8c5e-a593a82fb02a.gif) -->
 
@@ -103,29 +103,19 @@ Given the dataset, I performed data exploration, data wrangling (cleaning and an
 ---
 
 ## Summary Of Findings
-* Majority of the respondents are below 35 years of age.
-![A Histogram showing the Respondents Current Age](https://user-images.githubusercontent.com/67068918/99255760-719dcc80-2825-11eb-8255-f9d06a8881be.png)
+| Information | Details |
+| --- | --- |
+| Majority of respondents | Below 35 years of age |
+| Majority of Household Heads | Below 50 years of age |
+| Majority of respondents | From the Rift Valley region |
+| Least respondents | From Nairobi |
+| Most respondents' highest level of education | Primary level |
+| Respondents with education levels beyond secondary school | Minority |
+| More children born in | Rural areas than in urban areas |
+| More children born to mothers with | No education |
+| Nyanza Region leads in terms of total children born. | Nairobi Region is the last. |
+| More children born to | Older women than to younger women. |
 
-* Majority of Household Heads are below 50 years of age.
-![A Histogram showing the Age of the Household Head](https://user-images.githubusercontent.com/67068918/99256118-f4268c00-2825-11eb-8308-e75994a6df3c.png)
-
-* Majority of the respondents are from the Rift Valley region while the least are from Nairobi.
-![Bar Chart Showing The number of respondents by Region](https://user-images.githubusercontent.com/67068918/99261392-b9285680-282d-11eb-8af0-a61df746b593.png)
-
-* Most of the respondents have attained Primary level of education as their highest level of education. Those with education levels beyond secondary school make up the minority.
-![Bar Chart Showing Highest level of Education](https://user-images.githubusercontent.com/67068918/99267351-e62c3780-2834-11eb-8f7c-d37407c9dfd1.png)
-
-* More children are born in rural areas than in urban areas.
-![Box plot of Total children ever born vs Type of residence](https://user-images.githubusercontent.com/67068918/99261684-19b79380-282e-11eb-931a-fed3347089af.png)
-
-* More children are born to mothers with no education.
-![Box plot of Total children ever born vs The highest level of education](https://user-images.githubusercontent.com/67068918/99267912-969a3b80-2835-11eb-96ed-716ab704f24a.png)
-
-* Nyanza Region leads in terms of total children born. Nairobi Region is the last.
-![Box plot of Total children ever born by Region](https://user-images.githubusercontent.com/67068918/99262038-8a5eb000-282e-11eb-8232-2d0b8a89422f.png)
-
-* More children are born to older women than to younger women.
-![Total children ever born vs Respondents current age](https://user-images.githubusercontent.com/67068918/99268483-45d71280-2836-11eb-9cf9-2d832653813b.png)
 
 [Back To The Top](#Kenya-Demographics-Health-Survey-KDHS--2014)
 
@@ -137,4 +127,3 @@ Given the dataset, I performed data exploration, data wrangling (cleaning and an
 - Website - https://richardtaracha.glitch.me/
 
 [Back To The Top](#Kenya-Demographics-Health-Survey-KDHS--2014)
-
