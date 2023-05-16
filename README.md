@@ -138,5 +138,3 @@ Given the dataset, I performed data exploration, data wrangling (cleaning and an
 
 [Back To The Top](#Kenya-Demographics-Health-Survey-KDHS--2014)
 
-![kenya-flag-4942854-4121920](https://github.com/TarachaR/Kenya-Demographics-Health-Survey-KDHS--2014/assets/67068918/45a40220-dcd8-48d9-ab2b-602cd1cbf1e8)
-
