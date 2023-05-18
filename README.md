@@ -116,8 +116,3 @@ Given the dataset, I performed data exploration, data wrangling (cleaning and an
 
 
 <h3 align="center">Made with ❤️ by Richard Taracha</h3>
-
-
-
-![calendar-alt](https://github.com/TarachaR/-Exploring-the-Demographics-and-Health-Landscape-of-Kenya-The-2014-Kenya-Demographics-and-Health-Su/assets/67068918/4bbf504a-8bd8-4141-a188-b1f142511844)
-
