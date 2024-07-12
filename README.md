@@ -1,10 +1,15 @@
 # Kenya-Demographics-Health-Survey-KDHS--2014
----
 
-> <img align="left" width="25" height="25" src="https://github.com/TarachaR/-Exploring-the-Demographics-and-Health-Landscape-of-Kenya-The-2014-Kenya-Demographics-and-Health-Su/assets/67068918/554ab581-b25a-4112-85e5-d0d2fbe4d7e3.svg"> **Author:** Richard Taracha 
+## An Overview: Kenya's Fertility Landscape:
 
-> Date: 
-> <img align="left" width="25" height="25" src="https://github.com/TarachaR/-Exploring-the-Demographics-and-Health-Landscape-of-Kenya-The-2014-Kenya-Demographics-and-Health-Su/assets/67068918/4bbf504a-8bd8-4141-a188-b1f142511844.svg"> **Date:** 16/11/2020
+Kenya, a vibrant East African nation, is experiencing a demographic phenomenon often referred to as a 'population explosion'. A key factor is the high fertility rate, with women of reproductive age bearing more children than their counterparts in many other countries.
+
+### The Fertility Rate Conundrum:
+Imagine Kenya as a vibrant marketplace, teeming with life. That's exactly what the country's demographics show us. The fertility rate, which is basically the average number of children a woman has in her lifetime, is higher here than in many other places. It's like a game of hopscotch, but instead of hopping squares, Kenyans are hopping over cribs!
+
+### The Impact of Rapid Population Growth:
+Rapid population growth poses a plethora of challenges, straining resources, and infrastructure. It also impacts social, economic, and environmental aspects, thus making this a critical issue that needs to be addressed.
+
 
 <!-- Alignment options!!!!! -->
 <img align="right" width="350" height="350" src="https://github.com/TarachaR/-Exploring-the-Demographics-and-Health-Landscape-of-Kenya-The-2014-Kenya-Demographics-and-Health-Su/assets/67068918/62266fbf-4c96-48db-ba94-3e40761a90ad.gif">
